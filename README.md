@@ -1,11 +1,10 @@
 # Space Jules AI: Conscious Prompt Evaluation & Language Insight
-
 Final project for the Building AI course 🚀✨  
 By Julie Elvestad, aka "Space Jules"
 
 ---
 
-## 🧠 Summary  
+## Summary
 Building a conscious AI support system that evaluates prompts, language, and output clarity – blending Norwegian language precision with intuitive guidance and emotional intelligence.
 
 ---
